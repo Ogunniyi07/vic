@@ -1,0 +1,23 @@
+.video{
+    h1{
+        color: var(--black-black-200, #333231);
+text-align: center;
+font-family: Test Founders Grotesk;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+line-height: 120%; /* 38.4px */
+letter-spacing: 0.064px;
+display: flex;
+justify-content: flex-start;
+    }
+    p{
+        color: var(--black-black-200, #333231);
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 200% */
+padding: 24px 0px;
+    }
+}

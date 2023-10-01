@@ -1,0 +1,17 @@
+.use{
+    width: 100%;
+    height: 455px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.scroll{
+    width:30%;
+    background-color: #333231;
+    border-radius: 8px;
+}
+.blank{
+    width: 70%;
+    background-color: #333231;
+    border-radius: 8px;
+}
