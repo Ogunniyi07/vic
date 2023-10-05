@@ -35,6 +35,16 @@ export default function Accordions() {
           Suspendisse massa risus, pretium id interdum in, dictum sit amet ante.
           Fusce vulputate purus sed tempus feugiat.
         </AccordionItem>
+
+        <AccordionItem header="Why do we use it?">
+          Suspendisse massa risus, pretium id interdum in, dictum sit amet ante.
+          Fusce vulputate purus sed tempus feugiat.
+        </AccordionItem>
+
+        <AccordionItem header="Why do we use it?">
+          Suspendisse massa risus, pretium id interdum in, dictum sit amet ante.
+          Fusce vulputate purus sed tempus feugiat.
+        </AccordionItem>
       </Accordion>
     </div>
   );
