@@ -32,9 +32,9 @@ function App() {
     //   </div>
     // </div>
     <>
-      <Faq/>
+      {/* <Faq/> */}
       {/* <Agreements /> */}
-      {/* <Brand /> */}
+      <Brand />
     </>
   );
 }
